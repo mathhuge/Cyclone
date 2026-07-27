@@ -1,6 +1,6 @@
 # Cyclone
 A WIP Vortex Exploit  
-Get the latest version from [here](https://github.com/mathhuge/Cyclone/releases/download/v0.2.16/Cyclone.exe)  
+Get the latest version [here](https://github.com/mathhuge/Cyclone/releases/download/v0.2.16/Cyclone.exe)  
   
 ### Current Capabilities:
 - Reading Values
