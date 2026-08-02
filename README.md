@@ -18,7 +18,9 @@ Get the latest version [here](https://github.com/mathhuge/Cyclone/releases/downl
 - RotX (float, local)
 - RotY (float, replicated)
 - RotZ (float, local)
-- RotW (float, replicated)
+- RotW (float, replicated)  
+
+(Weird scaling caused by rotation is client-sided)
 
 ### Misc:
 - InfJump (bool, replicated)
