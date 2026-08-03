@@ -22,7 +22,7 @@ Get the latest version [here](https://github.com/mathhuge/Cyclone/releases/downl
 - RotZ (float, local)
 - RotW (float, replicated)  
 
-(Weird scaling caused by rotation is client-sided)
+(Rig warping caused by rotation is client-sided)
 
 ### Misc:
 - InfJump (bool, replicated)
