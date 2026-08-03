@@ -3,6 +3,8 @@ A WIP Vortex Exploit
 Get the latest version [here](https://github.com/mathhuge/Cyclone/releases/download/v0.2-v0.2.16/Cyclone.exe)! (v0.2-v0.2.16)  
 (This injects a DLL into Vortex, so your antivirus might flag it, whitelist it if it does!)  
   
+<img align="right" src="IMAGES/CyclonePreviewTransparent.png" alt="Cyclone Preview">
+  
 ### Current Capabilities:
 - Reading Values
 - Writing Values
