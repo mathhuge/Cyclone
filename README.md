@@ -27,3 +27,4 @@ Now without fixed offsets!
 
 ### Misc:
 - InfJump (bool, replicated)
+- Float (bool, replicated)
