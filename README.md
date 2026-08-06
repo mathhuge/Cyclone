@@ -1,7 +1,8 @@
 # Cyclone
 A WIP Vortex Exploit  
-Get the latest version [here](https://github.com/mathhuge/Cyclone/releases/download/v0.2-v0.2.16/Cyclone.exe)! (v0.2-v0.2.16)  
+Get the latest version [here](https://github.com/mathhuge/Cyclone/releases/download/v0.2-v0.2.16/Cyclone.exe)! (v0.3-v0.2.22)  
 (This injects a DLL into Vortex, so your antivirus might flag it, whitelist it if it does!)  
+Now without fixed offsets!
   
 <img align="right" src="IMAGES/CyclonePreviewTransparent.png" alt="Cyclone Preview">
   
